@@ -11,9 +11,8 @@ This app is the result of my studies using MVVM, JSON, Coordinators pattern and 
 
 ## Pictures
 
-<img src="oooo" width=300>
-<img src="oooo" width=300>
+<img src="https://github.com/inaldor/iOSTest-MVVM/blob/master/app-images/Home.png" width=300>
 
 ## License
 
-This project is licensed under the [MIT License](oooo)
+This project is licensed under the [MIT License](https://github.com/inaldor/iOSTest-MVVM/blob/master/README.md)
